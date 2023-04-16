@@ -1,9 +1,9 @@
-# console.log("Hello world! I am ghost3jelly. Welcome to my github!") <img src="https://images.squarespace-cdn.com/content/v1/5d7992e0561f696ca525af76/ef647aca-c661-45c9-8f68-e73ba885b05c/aesthetic-notion-cover-12.png?format=1500w" width="30px">
+# console.log("Hello world! I am ghost3jelly. Welcome to my github!") 
 
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
+  <img height="" src="https://images.squarespace-cdn.com/content/v1/5d7992e0561f696ca525af76/ef647aca-c661-45c9-8f68-e73ba885b05c/aesthetic-notion-cover-12.png?format=1500w"  />
 </div>
 
 ###
