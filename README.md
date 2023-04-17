@@ -24,5 +24,5 @@ username=ghost3jelly&theme=nord&hide_border=false&include_all_commits=false&coun
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)]
+[!(https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
