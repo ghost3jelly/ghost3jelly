@@ -19,10 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghost3jelly&theme=nord&hide_border=false)<br/>
 username=ghost3jelly&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 ---
-[!(https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)]
+[![](https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)]
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
