@@ -21,13 +21,13 @@
 <h2 align="center">My Socials</h2>
 
 ###
-[Twitch](https://www.twitch.tv/bbbbbb0bbbbbby)
+[Twitch](https://www.twitch.tv/bbbbbb0bbbbbby)<br/>
 [Gitlab](https://gitlab.com/ghost3jelly)
 
 
 <br>
 🌱 I’m currently learning C<br>
-###
+
 
 <h2 align="center">My Stats</h2>
 
