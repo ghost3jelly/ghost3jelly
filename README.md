@@ -25,8 +25,6 @@
 [Gitlab](https://gitlab.com/ghost3jelly)
 
 
-
-
 <h2 align="center">My Stats</h2>
 
 <div align="center">
