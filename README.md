@@ -26,7 +26,6 @@
 
 
 <br>
-🌱 I’m currently learning C<br>
 
 
 <h2 align="center">My Stats</h2>
