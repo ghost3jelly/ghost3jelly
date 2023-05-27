@@ -12,9 +12,9 @@
 
 ###
 
-🔭 I’m currently working on my personal website
+🔭 I’m currently working on my personal website.
 <br>
-🌱 I’m currently learning C<br>
+🌱 I’m currently learning C.<br>
 
 ###
 
