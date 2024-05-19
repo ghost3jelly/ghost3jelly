@@ -52,4 +52,6 @@
 
 ![](https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/ghost3jelly/ghost3jelly/output/snake.svg" alt="Snake animation" />
+
+###
