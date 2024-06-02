@@ -1,57 +1,54 @@
-# console.log("Hello world! I am ghost3jelly. Welcome to my github!")
+<h1 align="center">
+  Hello, I'm Your Name
+</h1>
 
-###
-
-<div align="center">
-  <img height="" src="https://images.squarespace-cdn.com/content/v1/5d7992e0561f696ca525af76/ef647aca-c661-45c9-8f68-e73ba885b05c/aesthetic-notion-cover-12.png?format=1500w"  />
-</div>
-
-###
-
-<h2 align="center">About Me</h2>
-
-###
-
-🔭 I’m currently working on my personal website.
-<br>
-🌱 I’m currently learning C.<br>
-
-###
-
-###
-
-<h2 align="center">My Socials</h2>
-
-###
-
-[Twitch](https://www.twitch.tv/bbbbbb0bbbbbby)<br/>
-[Gitlab](https://gitlab.com/ghost3jelly)
-
-<h2 align="center">My Stats</h2>
+<h3 align="center">
+  I'm a <span class="typing"></span>
+</h3>
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=ghost3jelly&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghost3jelly&theme=nord&hide_border=false)<br/>
-
+  <img class="rotate" src="https://avatars.githubusercontent.com/u/ghost3jelly" width="200" height="200" alt="Profile Picture">
 </div>
 
-###
+<p align="center">
+  A brief introduction about yourself goes here.
+</p>
 
-<h2 align="center">Tech I Use</h2>
+<p align="center">
+  <a href="https://twitter.com/your-twitter-handle">Twitter</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
+  <a href="https://your-website.com">Website</a>
+</p>
 
-###
+<style>
+  .typing {
+    animation: typing 2s steps(20, end), blink-caret .75s step-end infinite;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    font-size: 1.5em;
+  }
 
-<div align="center">
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
 
-</div>
+  .rotate {
+    animation: rotation 2s infinite linear;
+  }
 
----
-
-![](https://visitcount.itsvg.in/api?id=ghost3jelly&icon=6&color=0)
-
-<img src="https://raw.githubusercontent.com/ghost3jelly/ghost3jelly/output/snake.svg" alt="Snake animation" />
-
-###
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+</style>
