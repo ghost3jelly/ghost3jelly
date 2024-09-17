@@ -1,11 +1,17 @@
 # Hey, I'm Santii 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FF6F6F00&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://santii.foo.ng" target="_blank">
+    <img src="https://img.shields.io/badge/Website-santii.foo.ng-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5722&background=FF6F6F00&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=ghost3jelly&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=ghost3jelly&cc=22272e&tc=FF5722&ic=fff&bc=0000">
 </div>
 
 ## 🛠️ Skills
@@ -15,13 +21,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## 🔭 Currently working on
+## 🔭 Latest Projects
 
 <!-- GITHUB-REPOS:START -->
 <!-- This section will be automatically updated by a GitHub Action -->
 <!-- GITHUB-REPOS:END -->
 
-## 📝 Latest blog posts
+## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by a GitHub Action -->
@@ -36,9 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghost3jelly&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ghost3jelly&color=FF5722&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost3jelly&theme=gotham" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost3jelly&theme=dark&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" />
 </p>
