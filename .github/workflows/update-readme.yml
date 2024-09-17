@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: ghost3jelly/blog-post-workflow@master
         with:
           feed_list: "https://santii.foo.ng/"
       - uses: ethomson/repo-activity-action@v0.1.8
@@ -20,7 +20,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           days: 7
           max_repos: 3
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: ghost3jelly/git-auto-commit-action@v4
         with:
           commit_message: Update README with latest activity
           branch: main
