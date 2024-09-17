@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5722&background=FF6F6F00&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&pause=1000&width=435&lines=Web+Design+Enthusiast;Arch+Linux+Aficionado;Open+Source+Contributor;UI%2FUX+Enthusiast;Frontend+Developer;Code+Poet;Terminal+Tamer;JavaScript+Juggler)](https://git.io/typing-svg)</p>
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=ghost3jelly&cc=22272e&tc=FF5722&ic=fff&bc=0000">
