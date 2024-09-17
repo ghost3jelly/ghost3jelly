@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&pause=1000&color=AEF7BE&width=435&lines=Web+Design+Enthusiast;Arch+Linux+Aficionado;Open+Source+Contributor;UI%2FUX+Enthusiast;Frontend+Developer;Code+Poet;Terminal+Tamer;JavaScript+Juggler" alt="Typing SVG" /></a>  <img src="https://github-stats-alpha.vercel.app/api?username=ghost3jelly&cc=22272e&tc=FF5722&ic=fff&bc=0000">
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&pause=1000&color=AEF7BE&width=435&lines=Web+Design+Enthusiast;Arch+Linux+Aficionado;Open+Source+Contributor;UI%2FUX+Enthusiast;Frontend+Developer;Code+Poet;Terminal+Tamer;JavaScript+Juggler" alt="Typing SVG" /></a>
+  <img src="https://github-stats-alpha.vercel.app/api?username=ghost3jelly&cc=22272e&tc=FF5722&ic=fff&bc=0000" alt="GitHub Stats">
+</p>
 
 ## 🛠️ Skills
 
